@@ -47,6 +47,9 @@ Learn and apply foundational web development concepts using HTML, CSS, and JavaS
 
 ---
 
+📽️ **Demo Video Week_1**: [Watch here](https://drive.google.com/file/d/1IlFJcjvsrN5DV46hJpOWL0cU9DDe7aKT/view?usp=sharing)
+
+
 📅 **Next Up: Week 2 – Intermediate HTML, CSS, and JS**  
 Stay tuned!
 

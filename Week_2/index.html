@@ -1,0 +1,55 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Week 2 Project</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+</head>
+<body>
+  <header>
+    <h1>My Web Contact_Dashboard</h1>
+    <nav>
+      <ul>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#todo">To-Do List</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="contact">
+      <h2>Contact Form</h2>
+      <form id="contactForm">
+        <label for="name">Name:</label>
+        <input type="text" id="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+
+        <label for="message">Message:</label>
+        <textarea id="message" required></textarea>
+
+        <button type="submit">Submit</button>
+        <p id="formError"></p>
+      </form>
+    </section>
+
+    <section id="todo">
+      <h2>To-Do List</h2>
+      <input type="text" id="taskInput" placeholder="Enter a task">
+      <button id="addTaskBtn">Add Task</button>
+      <ul id="taskList"></ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Made with ❤️ during my Web Dev Internship Task 2</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
