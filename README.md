@@ -114,9 +114,59 @@ Enhance HTML and CSS skills, and learn JavaScript for DOM manipulation.
 
 ---
 
-## 📌 Next Steps (Week 3):
-- Add advanced styling & animations
-- Improve accessibility
-- Work on more advanced interactivity
+# Week 3: Advanced Styling and JavaScript
+
+## Objective:
+Gain advanced skills in CSS and JavaScript for building interactive, responsive sites.
+
+## Steps:
+
+### 1. Apply Responsive Design Using Media Queries:
+   - **Objective:** Ensure web pages look great on mobile, tablet, and desktop.
+   - **Actions:**
+     - Used media queries to adjust layouts, font sizes, and other elements for different devices.
+     - Implemented breakpoints for mobile, tablet, and desktop screens.
+     - Applied Flexbox for navigation and CSS Grid for content areas to make the layout responsive.
+
+### 2. Build an Interactive Quiz Using JavaScript:
+   - **Objective:** Build more complex JavaScript projects.
+   - **Actions:**
+     - Created an interactive quiz with multiple questions and options.
+     - Implemented dynamic scoring and feedback after each question.
+     - Added a timer feature to increase interactivity.
+
+### 3. Fetch Data from an API Using JavaScript:
+   - **Objective:** Learn how to work with external APIs to fetch real-time data.
+   - **Actions:**
+     - Integrated the Joke API from [icanhazdadjoke.com](https://icanhazdadjoke.com/) to fetch random jokes.
+     - Used JavaScript `fetch()` function to make API requests and retrieve joke data in JSON format.
+     - Displayed the joke dynamically on the webpage each time the user clicks the "Get Joke" button.
+
+---
+
+### File Structure:
+
+---
+
+### Resources:
+
+- **API Used:** [icanhazdadjoke API](https://icanhazdadjoke.com/)
+  - Fetches a random joke each time a request is made with the `Accept: application/json` header.
+
+---
+
+### Preview:
+- The webpage is responsive and works seamlessly on mobile, tablet, and desktop screens.
+- The interactive quiz feature allows users to answer multiple questions, score their performance, and get feedback.
+- A random joke is fetched from the API and displayed dynamically when the user clicks the "Get Joke" button.
+
+---
+
+### Next Steps:
+- Continue building upon this project to add additional features such as user authentication or save scores.
+- Enhance the API integration to fetch jokes based on categories or themes.
+
+
+
 
 
