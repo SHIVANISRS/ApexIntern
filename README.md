@@ -166,6 +166,78 @@ Gain advanced skills in CSS and JavaScript for building interactive, responsive 
 - Continue building upon this project to add additional features such as user authentication or save scores.
 - Enhance the API integration to fetch jokes based on categories or themes.
 
+# Task 4: Portfolio Website
+
+## Objective:
+The goal of this task was to build a **personal portfolio website** that showcases the skills and projects completed in previous tasks, demonstrating proficiency in HTML, CSS, JavaScript, and creating functional web applications.
+
+### Portfolio Includes:
+1. **To-Do List App** (Task 1)
+2. **Product Listing Page** (Task 2)
+3. **Note-Taking App** (Task 3)
+
+The website consists of the following sections:
+- **About Me**: Brief introduction and skills.
+- **Projects**: Links to previously built projects.
+- **Contact**: Simple contact information (email).
+
+
+## Project Features:
+
+### 1. **Portfolio Page**:
+- **About Section**: An introduction about me and my skills.
+- **Projects Section**: Showcases previous projects with clickable links that open in a new tab. The projects linked are:
+  - **To-Do List App**: A simple app that allows users to add, edit, and delete tasks, with data persistence using localStorage.
+  - **Product Listing Page**: A page displaying a list of products, with the ability to filter and sort products by category or price.
+
+### 2. **To-Do List App (Task 1)**:
+- **Objective**: Implement a to-do list app with **localStorage** to persist data across sessions.
+- **Key Features**:
+  - Add new tasks
+  - Mark tasks as completed
+  - Delete tasks
+  - Data persistence using **localStorage**.
+
+### 3. **Product Listing Page (Task 2)**:
+- **Objective**: Create an interactive product listing page where users can **filter** and **sort** products by categories and price.
+- **Key Features**:
+  - Product display with filter options
+  - Sort products based on price or rating
+
+## How to Run the Project:
+1. Download or clone this repository.
+2. Open the `1.portfolio/index.html` in a web browser to view the portfolio website.
+3. Click on the links in the **Projects** section to view the individual apps:
+   - **To-Do List App**
+   - **Product Listing Page**
+
+## Technologies Used:
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Local Storage (for To-Do List App)
+- Responsive Design (for the portfolio)
+
+## Future Enhancements:
+- Add more interactive features to the portfolio, such as a contact form.
+- Integrate APIs for dynamic content, such as fetching products or tasks from an external server.
+- Improve styling and animations for a more polished user experience.
+
+---
+
+## 🎯 **GitHub Repository**:
+You can view the full project on my GitHub: [GitHub Repository Link](https://github.com/your-username/Week_4_Web_Projects)
+
+---
+
+## Contact Information:
+Feel free to reach out to me via email at **yourname@example.com** for any queries or collaboration.
+
+---
+
+### **ApexPlanet Internship Task 4 Completion**
+
+
 
 
 
