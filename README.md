@@ -239,6 +239,56 @@ Feel free to reach out to me via email at **yourname@example.com** for any queri
 
 
 
+# 🛍️ ShopSmart – Final Capstone Project
+
+### 🔖 ApexIntern – Week 5 Task 5: Final Project and Optimization
+
+## 📌 Objective
+The goal of this task was to build a **comprehensive e-commerce web application** using core web technologies (HTML, CSS, JavaScript), and optimize it for:
+- Performance 🚀
+- Responsiveness 📱
+- Cross-Browser Compatibility 🌐
+
+---
+
+## ✅ Features
+
+### 🔧 Built with:
+- **HTML5** – Page structure
+- **CSS3** – Styling & responsiveness
+- **JavaScript (Vanilla)** – Interactivity and logic
+
+### 🛒 E-Commerce Functionalities:
+- Product listing with images and descriptions
+- Search bar for real-time filtering
+- Dynamic product loading using JavaScript
+- Add to Cart functionality (can be extended)
+- Checkout page structure
+- Login system (using `localStorage` for demo purpose)
+
+### 📱 Responsive Design:
+- Fully responsive layout using media queries
+- Mobile-first approach
+- Flexbox and grid-based layouts
+
+### 🌐 Compatibility:
+Tested on:
+- Google Chrome
+- Mozilla Firefox
+- Safari
+- Microsoft Edge
+- Mobile Browsers (Android & iOS)
+
+### ⚙️ Performance Optimizations:
+- Minified and clean CSS/JS
+- Lazy loading of product images
+- Fewer HTTP requests with optimized file structure
+- Semantic HTML used for accessibility
+
+---
+
+
+
 
 
 
